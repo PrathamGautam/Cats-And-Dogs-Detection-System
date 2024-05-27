@@ -137,6 +137,10 @@ root.mainloop()
 - `keras_model.h5`: The pre-trained Keras model file.
 - `labels.txt`: A text file containing the class labels (0 for Cat, 1 for Dog).
 - `requirements.txt`: The required Python packages.
+## Output of The code
+![image](https://github.com/PrathamGautam/Cats-And-Dogs-Detection-System/assets/142311958/0b5150cc-3010-4a8c-af1d-ec835861c2f6)
+![image](https://github.com/PrathamGautam/Cats-And-Dogs-Detection-System/assets/142311958/4052a4af-41bb-4209-bc1e-c449b88d8f50)
+
 
 ## License
 
